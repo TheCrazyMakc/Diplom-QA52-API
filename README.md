@@ -25,5 +25,3 @@ python -m pytest -v tests/
 
 python -m pytest -v tests/ --alluredir=allure-results
 allure serve allure-results
-
-.
